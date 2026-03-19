@@ -27,9 +27,9 @@ It is entirely in 3D, and it uses collisions and physics for the player and the 
 - **Video:** [video link](https://youtu.be/iLWaelH7C1s).
 
 ## Other work in progress projects
-* A **top down** frenetic **pixel art** exprerience with extreamly scalable code
+* A **top down** frenetic **pixel art** exprerience with extreamly scalable code and scritpable objects
 * A **strategic wargame** with random terrain generation based on perlin noise and algorithms for pathfinding such as Djikstra
-* A **multyplayer** implementation of the "The mind" card game
+* A **multyplayer** implementation of the "The mind" card game, using Unity Netcode for GameObjects and relay, 
 
 All the projects can be found at [this link](https://condormike.itch.io/).
 
