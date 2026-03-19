@@ -10,24 +10,27 @@ a virtual museum, with several rooms that contain different art styles and artis
 - **Features:** Different versions of the project used various types of *illumination*, but i decided to remove it because it could have been demanding for the computer it should have ran on.
 It is entirely in 3D, and it uses collisions and physics for the player and the *terrain component* with basic enviroment.
 - **What i learned:** The use of Light in 3d ambients, the Terrain component, basic *3d modeling* and basic enviromental design.
+- **Video:** [video link](https://youtu.be/nd_e7rBOVFA).
 
 ## Planet Merge
 - **What is it about:** Planet merge is a mobile game that took inspiration from games such as "Fruit merge" with the addition of the space related theme. 
 - **Developers:** I am the only developer of this project.
 - **Features:** Collision system and logic between the planets, physics, and 
 - **What i learned:** I learned how to use unity to develop mobile games and add a basic ui and music system to the game.
+- **Video:** [video link](https://youtu.be/uCKa60-FwiQ) (the music is not in-game).
 
 ## The time engeneer
 - **What is it about:** It is a serious game about the history of the informatics, exploring some important steps from its very beginning to the Apollo 11. (More additions could come in the future)
 - **Developers:** It was created on a game jam. We were a group of 2, where the other component of the team made all the art and i developed all the code and designed the levels.
 - **Features:** Different minigames with various approaches (top down, isometric, point-and-click)
 - **What i learned:** I learned how to work in a small group, cooperating with others to achieve a goal in a brief time.
+- **Video:** [video link](https://youtu.be/iLWaelH7C1s).
 
 ## Other work in progress projects
 * A **top down** frenetic **pixel art** exprerience with extreamly scalable code
 * A **strategic wargame** with random terrain generation based on perlin noise and algorithms for pathfinding such as Djikstra
 * A **multyplayer** implementation of the "The mind" card game
 
-All the projects and video presentations can be found at [this link](https://condormike.itch.io/).
+All the projects can be found at [this link](https://condormike.itch.io/).
 
 Note: All the music in the videos is made by me.
