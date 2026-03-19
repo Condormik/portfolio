@@ -28,4 +28,6 @@ It is entirely in 3D, and it uses collisions and physics for the player and the 
 * A **strategic wargame** with random terrain generation based on perlin noise and algorithms for pathfinding such as Djikstra
 * A **multyplayer** implementation of the "The mind" card game
 
-All the projects can be found at [this link](https://condormike.itch.io/)
+All the projects and video presentations can be found at [this link](https://condormike.itch.io/).
+
+Note: All the music in the videos is made by me.
