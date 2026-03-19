@@ -27,3 +27,5 @@ It is entirely in 3D, and it uses collisions and physics for the player and the 
 * A **top down** frenetic **pixel art** exprerience with extreamly scalable code
 * A **strategic wargame** with random terrain generation based on perlin noise and algorithms for pathfinding such as Djikstra
 * A **multyplayer** implementation of the "The mind" card game
+
+All the projects can be found at [this link](https://condormike.itch.io/)
