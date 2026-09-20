@@ -26,7 +26,7 @@ It is entirely in 3D, and it uses collisions and physics for the player and the 
 - **Video:** [video link](https://youtu.be/iLWaelH7C1s).
 
 ## Other work in progress projects
-* A **top down** frenetic **pixel art** experience with extremely scalable code and Scriptable Objects.
+* Currently working as Lead Developer in a 2D visual novel, in collaboration with UNICAM. 
 * A **strategic wargame** with random terrain generation based on perlin noise and algorithms for pathfinding such as Dijkstra.
 * A **multiplayer** implementation of the "The mind" card game, using Unity Netcode for GameObjects and relay. 
 
